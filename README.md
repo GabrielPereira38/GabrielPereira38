@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 <br/>
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abrielPereira38&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielPereira38&show_icons=true&theme=tokyonight&count_private=true" />
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPereira38&layout=compact&theme=tokyonight" />
 </p>
